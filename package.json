@@ -36,7 +36,7 @@
     "node-addon-api": "^8.0.0"
   },
   "devDependencies": {
-    "chai": "^4.3.8",
+    "chai": "^6.2.0",
     "cli-color": "^2.0.3",
     "fs-extra": "^11.1.1",
     "mocha": "^11.7.5",
