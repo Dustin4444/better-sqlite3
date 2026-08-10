@@ -43,7 +43,7 @@
     "node-gyp": "^10.3.1",
     "nodemark": "^0.3.0",
     "sqlite": "^5.0.1",
-    "sqlite3": "^5.1.6"
+    "sqlite3": "^6.0.1"
   },
   "scripts": {
     "build-release": "node-gyp clean && node-gyp rebuild --release --force_build=1",
